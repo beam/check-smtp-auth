@@ -1,4 +1,9 @@
 #!/usr/bin/env ruby
+#
+# Created by Andrew Beam
+# https://github.com/beam/check-smtp-auth
+#
+
 require 'net/smtp'
 require 'optparse'
 
